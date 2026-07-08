@@ -19,9 +19,7 @@ The Neurodisease Database is an ongoing project aimed at organizing key informat
 - Organization of data into structured tables
 - Focus on clarity and biological relevance rather than completeness
 
-## Current Status
-🟡 In progress  
-Data collection and structuring are ongoing.
+
 
 ## What I Learned
 - How neurological diseases are classified
